@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge Accessibility</title>
+    <!-- LINK TO EXTERNAL CSS STYLESHEET  -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+           <!-- NAVIGATION SECTION NAVIGATION SECTION NAVIGATION SECTION NAVIGATION SECTION  -->
+    <nav class="header" aria-label="Main navigation" role="Navigation">
+      <h1>
+        Hori<span
+          class="seo"
+          aria-label="Horiseon"
+          role="Company providing search engine optimization, marketing and media"
+          >seo</span
+        >n
+      </h1>
+      <div>
+        <ul>
+          <li>
+            <a
+              href="#search-engine-optimization"
+              aria-label="Menu item"
+              role="navigation"
+              >Search Engine Optimization</a
+            >
+          </li>
+          <li>
+            <a
+              href="#online-reputation-management"
+              aria-label="Menu item"
+              role="navigation"
+              >Online Reputation Management</a
+            >
+          </li>
+          <li>
+            <a
+              href="#social-media-marketing"
+              aria-label="Menu item"
+              role="navigation"
+              >Social Media Marketing</a
+            >
+          </li>
+        </ul>
+      </div>
+    </nav>
+         <!-- NAVIGATION END NAVIGATION END NAVIGATION END NAVIGATION END NAVIGATION END  -->
+         <!-- HEADER SECTION HEADER SECTION HEADER SECTION HEADER SECTION HEADER SECTION  -->
+    <header class="hero" aria-label="Page header" role="Banner"></header>
+       <!-- HEADER SECTION END HEADER SECTION END HEADER SECTION END HEADER SECTION END -->
+       <!-- MAIN SECTION MAIN SECTION MAIN SECTION MAIN SECTION MAIN SECTION MAIN SECTION  -->
+    <main class="content" aria-label="Main content" role="Main">
+                           <!-- FIRST CARD START FIRST CARD START FIRST CARD -->
+      <section
+        class="search-engine-optimization"
+        id="search-engine-optimization"
+        aria-label="search-engine-optimization"
+        role="Provide information about search engine optimization"
+      >
+        <figure>
+          <img
+            src="./assets/images/search-engine-optimization.jpg"
+            class="float-left"
+            alt="Illustration showing the key concepts of search engine optimization next to a laptop cup of coffee and pencils"
+          />
+        </figure>
+        <h2>Search Engine Optimization</h2>
+        <p>
+          The dominance of mobile internet use means that users are searching
+          for the right business as they travel, shop, or sit on their couch at
+          home. Search Engine Optimization (SEO) allows you to increase your
+          visibility and find the right customers for your business.
+        </p>
+      </section>
+                            <!-- FIRST CARD END FIRST CARD END FIRST CARD END -->
+                            <!-- SECOND CARD START SECOND CARD START SECOND  CARD SECOND START -->
+      <section
+        id="online-reputation-management"
+        class="online-reputation-management"
+        aria-label="online-reputation-management"
+        role="Provide information about online reputation management"
+      >
+        <figure>
+          <img
+            src="./assets/images/online-reputation-management.jpg"
+            class="float-right"
+            alt="Illustration of someone using a laptop to search online for reputation management"
+          />
+        </figure>
+        <h2>Online Reputation Management</h2>
+        <p>
+          The web is full of opinions, and some of these can be negative. Social
+          media allows anyone with an internet connection to say whatever they
+          want about your business. Online Reputation Management gives you the
+          control over what potential customers see when they search for your
+          business.
+        </p>
+      </section>
+                       <!-- CARD SECOND END CARD SECOND END CARD SECOND END -->
+                       <!-- THIRD CARD START THIRD CARD START THIRD CARD START -->
+      <section
+        id="social-media-marketing"
+        class="social-media-marketing"
+        aria-label="Social media marketing"
+        role="Display social media marketing"
+      >
+        <figure>
+          <img
+            src="./assets/images/social-media-marketing.jpg"
+            class="float-left"
+            alt="Work team at table discussing social media marketing operations."
+          />
+        </figure>
+        <h2>Social Media Marketing</h2>
+        <p>
+          Social media continues to have a sizable influence on buying habits.
+          Social media marketing helps you determine which platforms are suited
+          to your brand, using analytics to find the right markets and increase
+          your lead generation.
+        </p>
+      </section>
+                     <!-- THIRD CARD END THIRD CARD END THIRD CARD END -->
+    </main>
+    <!-- MAIN SECTION END MAIN SECTION END MAIN SECTION END MAIN SECTION END MAIN SECTION END -->
+                      <!-- SIDEBAR START SIDEBAR START SIDEBAR START  -->
+    <aside class="benefits" aria-label="Benefits" role="Benefits information">
+                                    <!-- LEAD ARTICLE  -->
+      <article
+        class="benefit-lead"
+        aria-label="Lead generation"
+        role="Lead generation information"
+      >
+        <h3>Lead Generation</h3>
+        <figure>
+          <img
+            src="./assets/images/lead-generation.png"
+            alt="logo illustrating lead generation brings in more money"
+          />
+        </figure>
+        <p>
+          Inbound strategies for lead generation require less work for your
+          business, bringing customers directly to your website.
+        </p>
+      </article>
+                             <!-- LEAD ARTICLE END-->
+                             <!-- BRAND ARTICLE -->
+      <article
+        class="benefit-brand"
+        aria-label="Benefits"
+        role="Brand awareness information"
+      >
+        <h3>Brand Awareness</h3>
+        <figure>
+          <img
+            src="./assets/images/brand-awareness.png"
+            alt="logo showing the importance of brand awareness"
+          />
+        </figure>
+        <p>
+          Users find your business through paid and organic searches, increasing
+          the search ranking and visibility for your business.
+        </p>
+      </article>
+                                   <!-- BRAND ARTICLE END -->
+                                   <!-- COST ARTICLE -->
+      <article
+        class="benefit-cost"
+        aria-label="Benefits"
+        role="Cost management information"
+      >
+        <h3>Cost Management</h3>
+        <figure>
+          <img
+            src="./assets/images/cost-management.png"
+            alt="logo showing the united states currency "
+          />
+        </figure>
+        <p>
+          As the search ranking for your business increases, your advertising
+          costs decrease, and you no longer need to advertise your page.
+        </p>
+      </article>
+                                   <!-- COST ARTICLE END -->
+    </aside>
+                    <!-- SIDEBAR END SIDEBAR END SIDEBAR END SIDEBAR END -->
+                       <!-- FOOTER START FOOTER START FOOTER START -->
+    <footer
+      class="footer"
+      aria-label="Footer"
+      role="End of page credits & copyright"
+    >
+      <h2>Made with ❤️️ by Horiseon</h2>
+      <p>&copy; 2019 Horiseon Social Solution Services, Inc.</p>
+    </footer>
+                            <!-- FOOTER END FOOTER END FOOTER END -->
+  </body>
+</html>
