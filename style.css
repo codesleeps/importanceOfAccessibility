@@ -1,6 +1,12 @@
-                /* ADDED COLOR FONT FAMILY & FONT-SIZE TO MAIN BODY SO I DON'T NEED TO KEEP REPEATING SAME CODE*/
+                /* ADDED 
+                   COLOR   
+                   FONT FAMILY 
+                   FONT-SIZE 
+                   USING UNIVERSAL SELECTOR
+                   APPLIES TO WHOLE PAGE      
+                   */
 
-                /* RESET BROWSER  */
+                
 * {
     box-sizing: border-box;
     padding: 0;
@@ -18,7 +24,10 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+<<<<<<< HEAD:style.css
     color: #ffffff;
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 }
 
 .header h1 {
@@ -46,19 +55,21 @@ body {
     margin-left: 25px;
 }
 .seo {
-    /* color: #ffffff; */
     font-size: 48px;
 }
 
 
 a {
+<<<<<<< HEAD:style.css
     color: #ffffff;
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
     text-decoration: none;
 }
 
-                   /* REMOVED 'p' ELEMENT FONT-SIZE ON BODY   */
+                   /* REMOVED 'p' ELEMENT FONT-SIZE IN UNIVERSAL SELECTOR   */
 
-                   /* HERO SECTION  */
+                        /* HERO SECTION  */
 
 .hero {
     height: 800px;
@@ -99,10 +110,13 @@ a {
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
+<<<<<<< HEAD:style.css
     color: #ffffff;
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 }
 
-                    /* SIMPLIFIED (REFACTOR) CODE HERE BY ADDING CLASSES TOGETHER */
+                    /* SIMPLIFIED (REFACTORED) CODE HERE BY ADDING CLASSES TOGETHER */
 
 
 .benefit-lead h3,
@@ -111,10 +125,13 @@ a {
     margin-bottom: 10px;
     text-align: center;
 }
-                    /* SIMPLIFIED (REFACTOR) CODE HERE BY ADDING CLASSES TOGETHER */
+                    /* SIMPLIFIED (REFACTORED) CODE HERE BY ADDING CLASSES TOGETHER */
 
 
+<<<<<<< HEAD:style.css
 
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -122,10 +139,13 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
-                    /* SIMPLIFIED (REFACTOR) CODE HERE BY ADDING CLASSES TOGETHER */
+                    /* SIMPLIFIED (REFACTORED) CODE HERE BY ADDING CLASSES TOGETHER */
 
 
+<<<<<<< HEAD:style.css
 
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -133,6 +153,7 @@ a {
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
+<<<<<<< HEAD:style.css
     /* color: #ffffff; */
 }
                     /* SIMPLIFIED (REFACTOR) CODE HERE BY ADDING CLASSES TOGETHER */
@@ -153,6 +174,9 @@ a {
     font-size: 36px;
 }
                     /* SIMPLIFIED CODE HERE BY ADDING CLASSES TOGETHER */
+=======
+}
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 
 
                            /* FOOTER SECTION  */
