@@ -24,6 +24,13 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD:style.css
+    color: #ffffff;
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 }
 
 .header h1 {
@@ -54,7 +61,15 @@ body {
     font-size: 48px;
 }
 
+
 a {
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD:style.css
+    color: #ffffff;
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
     text-decoration: none;
 }
 
@@ -101,6 +116,13 @@ a {
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD:style.css
+    color: #ffffff;
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 }
 
                     /* SIMPLIFIED (REFACTORED) CODE HERE BY ADDING CLASSES TOGETHER */
@@ -115,6 +137,13 @@ a {
                     /* SIMPLIFIED (REFACTORED) CODE HERE BY ADDING CLASSES TOGETHER */
 
 
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD:style.css
+
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -125,6 +154,13 @@ a {
                     /* SIMPLIFIED (REFACTORED) CODE HERE BY ADDING CLASSES TOGETHER */
 
 
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD:style.css
+
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
+=======
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -132,7 +168,34 @@ a {
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD:style.css
+    /* color: #ffffff; */
 }
+                    /* SIMPLIFIED (REFACTOR) CODE HERE BY ADDING CLASSES TOGETHER */
+
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img {
+    max-height: 200px;
+}
+                    /* SIMPLIFIED CODE HERE BY ADDING CLASSES TOGETHER */
+
+
+
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2  {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+                    /* SIMPLIFIED CODE HERE BY ADDING CLASSES TOGETHER */
+=======
+}
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
+=======
+}
+>>>>>>> fa23f571f6496f5091bea9004cd4d1f5db2d2670:starter/assets/css/style.css
 
 
                            /* FOOTER SECTION  */
@@ -146,3 +209,6 @@ a {
 .footer h2 {
     font-size: 20px;
 }
+
+
+
