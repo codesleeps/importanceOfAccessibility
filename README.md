@@ -51,7 +51,8 @@ SO that our own site is optimized for search engines
 
 
 ### Deployed
-
+ - [x] Go to `settings` tab & press, then go to `pages & press` tab, you will then be at ... page, press the `main` tab, then `save` tab.
+ - [x] Site is live at url showing
 
  
 
