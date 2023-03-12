@@ -51,13 +51,12 @@ SO that our own site is optimized for search engines
 
 
 ### Deployed
- - [x] Go to `settings` tab & press, then go to `pages` & press tab, you will then be at  GitHub Pages, press the `main` tab, then `save` tab.
+ - [x] Go to `settings` tab & press this will bring you to the General Page, then look for `pages` & press tab, you will then be at GitHub Pages, press the `main` tab, then `save` tab.
  - [x] Site is live at url showing
-
- 
 
 
 ### Review
 
 - [x] url of deployed site added
 - [x] readme updated 
+- [x] screenshots added
