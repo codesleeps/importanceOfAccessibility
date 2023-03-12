@@ -20,22 +20,6 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-### Getting Started
-
-Follow these instructions to create your project and deploy it to GitHub Pages:
-
-1. Create & clone a new repository on your GitHub account to your computer.
-
-2. To deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
-
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
-
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
-
-
-
-
-
 
 ### Requirements
 
@@ -67,5 +51,15 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 ### Review
 
+### Getting Started
 
+Follow these instructions to create your project and deploy it to GitHub Pages:
+
+1. Create & clone a new repository on your GitHub account to your computer.
+
+2. To deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+
+3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+
+4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
 
