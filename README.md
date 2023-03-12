@@ -4,7 +4,8 @@ https://codesleeps.github.io/importanceOfAccessibility/
 
 ## Your Task
 
-Your website must meet accessibility standards, achieved by completing the following:
+- [] Create & clone a new repository on your GitHub account to your computer.
+- [] Your website must meet accessibility standards, achieved by completing the following:
 
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
@@ -49,17 +50,15 @@ SO that our own site is optimized for search engines
 
   - [x] Repository contains quality README file with description, screenshot, and link to deployed application.
 
-### Review
 
 ### Getting Started
 
 Follow these instructions to create your project and deploy it to GitHub Pages:
 
-1. Create & clone a new repository on your GitHub account to your computer.
 
 2. To deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
 
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
 
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
+### Review
+
 
