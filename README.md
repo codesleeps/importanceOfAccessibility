@@ -51,7 +51,13 @@ SO that our own site is optimized for search engines
   
   ![Screenshot 2023-03-12 at 07 47 07](https://user-images.githubusercontent.com/125808990/224531528-430303c2-bb09-44ee-8a82-b9660c7c6e45.png)
   ![Screenshot 2023-03-12 at 07 47 26](https://user-images.githubusercontent.com/125808990/224531491-002d29a7-7d9a-4b82-97a7-7f3d84275de9.png)
-
+  
+  
+### Lighthouse Scores
+Desktop View Score
+![Screenshot 2023-03-12 at 08 29 45](https://user-images.githubusercontent.com/125808990/224533597-ddd14089-2800-4456-9cd5-4bdc99ea36de.png)
+Mobile View Score
+![Screenshot 2023-03-12 at 08 32 58](https://user-images.githubusercontent.com/125808990/224533647-4afe3ace-8686-4192-8373-d3b6a000fe60.png)
 
 
 ### Deployed
