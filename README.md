@@ -1,118 +1,62 @@
-# 01 HTML CSS Git: Code Refactor
+# HTML CSS: Code Refactor
+
+https://codesleeps.github.io/importanceOfAccessibility/
 
 ## Your Task
- 
-**Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
 
-This week your challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: **accessibility**. 
- 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this challenge, a marketing agency has hired you to refactor an existing site to make it more accessible. 
- 
-Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
- 
-Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
- 
-**Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
-
-To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-Are you ready to jump in? Here are this week's challenge requirements:
+  - [ ] Create `new repository`,then `clone` it to your computer.
+  - [ ] Your website must meet accessibility standards, achieved by completing the following:
+  - [ ] Semantic HTML elements can be found throughout the source code
+  - [ ] HTML elements follow a logical structure independent of styling and positioning
+  - [ ] Image and icon elements contain accessible `alt` attributes
+  - [ ] Heading attributes fall in sequential order
+  - [ ] Title elements contain a concise, descriptive title
 
 ### User Story
 
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+SO that our own site is optimized for search engines
 ```
 
-### Acceptance Criteria
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+### Completed 🎯
 
-* Semantic HTML elements can be found throughout the source code
-* HTML elements follow a logical structure independent of styling and positioning
-* Image and icon elements contain accessible `alt` attributes
-* Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
+  - [x] Application's links all function correctly. 🎯
 
-### Resources:
+  - [x] Application's CSS selectors and properties are consolidated and organized to follow semantic structure. 🎯
 
-* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+  - [x] Application's CSS file is properly commented. 🎯
 
-### Mock-Up
+  - [x] Application deployed at live URL. 🎯
 
-The following image shows the web application's appearance and functionality:
+  - [x] Application loads with no errors. 🎯
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+  - [x] Application GitHub URL submitted. 🎯
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+  - [x] GitHub repository that contains application code. 🎯
 
-### Getting Started
+  - [x] Application resembles (at least 90%) screenshots provided in the challenge instructions. 🎯
 
-Follow these instructions to create your project and deploy it to GitHub Pages:
+  - [x] Repository has a unique name. 🎯
 
-1. Create a new repository on your GitHub account and clone it to your computer.
+  - [x] Repository follows best practices for file structure and naming conventions. 🎯
 
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+  - [x] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. 🎯
 
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+  - [x] Repository contains multiple descriptive commit messages. 🎯
 
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
+  - [x] Repository contains quality README file with description, screenshot, and link to deployed application. 🎯
 
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
 
-You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
+### Deployed
+ - [x] Go to `settings` tab & press this will bring you to the General Page, then look for `pages` & press tab, you will then be at GitHub Pages, press the `main` tab, then `save` tab.
+ - [x] Site is live at url showing
 
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
-Be sure to add, commit, and push your work to see the most up-to-date version of your app!
-
-### Requirements
-
-This challenge is assessed on the following criteria: 
-
-#### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following code improvements:
-
-  * Application's links all function correctly.
-
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-  * Application's CSS file is properly commented.
-
-#### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-#### Application Quality: 15%
-
-* Application resembles (at least 90%) screenshots provided in the challenge instructions.
-
-#### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ### Review
 
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- [x] url of deployed site added
+- [x] readme updated 
+- [x] screenshots added
