@@ -48,6 +48,10 @@ SO that our own site is optimized for search engines
   - [x] Repository contains multiple descriptive commit messages. 🎯
 
   - [x] Repository contains quality README file with description, screenshot, and link to deployed application. 🎯
+  
+  ![Screenshot 2023-03-12 at 07 47 07](https://user-images.githubusercontent.com/125808990/224531528-430303c2-bb09-44ee-8a82-b9660c7c6e45.png)
+  ![Screenshot 2023-03-12 at 07 47 26](https://user-images.githubusercontent.com/125808990/224531491-002d29a7-7d9a-4b82-97a7-7f3d84275de9.png)
+
 
 
 ### Deployed
