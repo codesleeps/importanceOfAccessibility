@@ -59,7 +59,7 @@ SO that our own site is optimized for search engines
 ![Screenshot 2023-03-12 at 08 29 45](https://user-images.githubusercontent.com/125808990/224533597-ddd14089-2800-4456-9cd5-4bdc99ea36de.png)
 > Mobile View Score
 
-![Screenshot 2023-03-12 at 08 32 58](https://user-images.githubusercontent.com/125808990/224533647-4afe3ace-8686-4192-8373-d3b6a000fe60.png)
+![Screenshot 2023-03-12 at 08 41 05](https://user-images.githubusercontent.com/125808990/224533904-0c210f27-28ed-4690-98fc-bec33202648b.png)
 
 
 ### Deployed
