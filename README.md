@@ -4,7 +4,6 @@ https://codesleeps.github.io/importanceOfAccessibility/
 
 ## Your Task
 
-  - [ ] Create & clone a new repository on your GitHub account to your computer.
   - [ ] Create `new repository`,then `clone` it to your computer.
   - [ ] Your website must meet accessibility standards, achieved by completing the following:
   - [ ] Semantic HTML elements can be found throughout the source code
@@ -22,43 +21,42 @@ SO that our own site is optimized for search engines
 ```
 
 
-### Requirements
+### Completed 🎯
 
-  - [x] Application's links all function correctly.
+  - [x] Application's links all function correctly. 🎯
 
-  - [x] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+  - [x] Application's CSS selectors and properties are consolidated and organized to follow semantic structure. 🎯
 
-  - [x] Application's CSS file is properly commented.
+  - [x] Application's CSS file is properly commented. 🎯
 
-  - [x] Application deployed at live URL.
+  - [x] Application deployed at live URL. 🎯
 
-  - [x] Application loads with no errors.
+  - [x] Application loads with no errors. 🎯
 
-  - [x] Application GitHub URL submitted.
+  - [x] Application GitHub URL submitted. 🎯
 
-  - [x] GitHub repository that contains application code.
+  - [x] GitHub repository that contains application code. 🎯
 
-  - [x] Application resembles (at least 90%) screenshots provided in the challenge instructions.
+  - [x] Application resembles (at least 90%) screenshots provided in the challenge instructions. 🎯
 
-  - [x] Repository has a unique name.
+  - [x] Repository has a unique name. 🎯
 
-  - [x] Repository follows best practices for file structure and naming conventions.
+  - [x] Repository follows best practices for file structure and naming conventions. 🎯
 
-  - [x] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+  - [x] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. 🎯
 
-  - [x] Repository contains multiple descriptive commit messages.
+  - [x] Repository contains multiple descriptive commit messages. 🎯
 
-  - [x] Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
-### Getting Started
-
-Follow these instructions to create your project and deploy it to GitHub Pages:
+  - [x] Repository contains quality README file with description, screenshot, and link to deployed application. 🎯
 
 
-2. To deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+### Deployed
+
+
+ 
 
 
 ### Review
 
-
+- [x] url of deployed site added
+- [x] readme updated 
