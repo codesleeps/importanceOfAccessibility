@@ -4,8 +4,8 @@ https://codesleeps.github.io/importanceOfAccessibility/
 
 ## Your Task
 
-  - [] Create & clone a new repository on your GitHub account to your computer.
-  - [] Your website must meet accessibility standards, achieved by completing the following:
+  - [0] Create & clone a new repository on your GitHub account to your computer.
+  - [0] Your website must meet accessibility standards, achieved by completing the following:
 
   * Semantic HTML elements can be found throughout the source code
   * HTML elements follow a logical structure independent of styling and positioning
