@@ -64,3 +64,4 @@ SO that our own site is optimized for search engines
 - [x] url of deployed site added
 - [x] readme updated 
 - [x] screenshots added
+- [x] Lighthouse screenshot scores added 
