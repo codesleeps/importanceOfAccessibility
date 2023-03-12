@@ -39,41 +39,33 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 ### Requirements
 
-
-
-#### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following code improvements:
-
   * Application's links all function correctly.
 
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
   * Application's CSS file is properly commented.
 
-#### Deployment:
+  * Application deployed at live URL.
 
-* Application deployed at live URL.
+  * Application loads with no errors.
 
-* Application loads with no errors.
+  * Application GitHub URL submitted.
 
-* Application GitHub URL submitted.
+  * GitHub repository that contains application code.
 
-* GitHub repository that contains application code.
+  * Application resembles (at least 90%) screenshots provided in the challenge instructions.
 
-* Application resembles (at least 90%) screenshots provided in the challenge instructions.
+  * Repository has a unique name.
 
-* Repository has a unique name.
+  * Repository follows best practices for file structure and naming conventions.
 
-* Repository follows best practices for file structure and naming conventions.
+  * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+  * Repository contains multiple descriptive commit messages.
 
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+  * Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ### Review
 
-You are required to submit the following for review:
+
 
